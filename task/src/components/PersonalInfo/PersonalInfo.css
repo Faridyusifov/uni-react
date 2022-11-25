@@ -1,0 +1,25 @@
+.personalInfo{
+    padding: 20px 0;
+}
+
+.personalInfo_content{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 30px;
+}
+.personalInfo_content_item{
+    flex: 0 0 calc(33.33333% - 30px);
+    max-width: calc(33.33333% - 30px);
+    background-color: #e5e5e5;
+    padding: 20px;
+}
+
+.personalInfo_content_item_title{
+    font-size: 28px;
+    font-weight: bold;
+    color: purple;
+    margin-bottom: 15px;
+}
+.personalInfo_content_item_text{
+    font-size: 18px;
+}
