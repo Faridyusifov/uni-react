@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/task_2/node_modules
-/task_3/node_modules
 /.pnp
 .pnp.js
 
