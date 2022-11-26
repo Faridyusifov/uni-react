@@ -2,11 +2,6 @@
 
 # dependencies
 /node_modules
-/task_2/node_modules
-/task_3/node_modules
-/ders_4/node_modules
-/task_5/node_modules
-/task_7/node_modules
 /.pnp
 .pnp.js
 
