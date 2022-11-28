@@ -1,0 +1,40 @@
+.button{
+    max-width: 150px;
+    padding: 10px 20px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    line-height: 24px;
+    color: #fff;
+    background-color: #000000;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: all 0.3s;
+}
+
+.button:hover{
+    background-color: #fff;
+    color: #000000;
+    border: 1px solid #000000;
+}
+
+.button.btnError{
+    background-color: red;
+}
+
+.error{
+    font-size: 15px;
+    color: red;
+    line-height: 20px;
+}
+
+.head{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.item{
+    margin-bottom: 20px;
+}
